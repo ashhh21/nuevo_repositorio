@@ -1,0 +1,151 @@
+body{
+    margin: 0%;
+}
+.logo{
+    width: 80px;
+    height: 70px;
+    border-radius: 100%;
+    margin-left: 10%;
+    margin-bottom: -1.2%;
+}
+.cabecera{
+    background-color: rgb(148, 218, 44);
+
+}
+.sankayus, .Bienvenida, .Caracteristicas, .blog, .indice{
+    color: rgb(15, 15, 15);
+    text-shadow: 3px 4px 5px rgb(65, 90, 66) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    margin-left: 7%;
+}
+.contenedor{
+    margin-left: 20%;
+    font-size: 23px;
+    padding-bottom: 23px;
+    padding-top: 2px;
+    margin-top: -2.5%;
+}
+.portada{
+    width: 100%;
+}
+.tamaño_p{
+    margin-bottom: 5.5%;
+}
+.delicia{
+    margin-left: 19%;
+    margin-top: -20.8%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 10px 10px 10px rgb(70, 127, 23);
+}
+h1{
+    font-size: 85px;
+}
+h4{
+    margin-top: -6%;
+    font-size: 23px;
+}
+.boton{
+    text-decoration: none;
+    padding: 1%;
+    border: 1px solid white;
+    background-color: rgb(209, 81, 31);
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    border-radius: 20px;
+}
+.Bienvenidos{
+    text-align: center;
+    padding-left: 14%;
+    padding-right: 14%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Bienvenidos h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 8px 10px 5px rgb(159, 157, 157);
+}
+.informacion, .propiedades{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sanky1, .sanky2, .sanky3{
+    width: 25%;
+    margin-left: 8%;
+}
+.img1, .img2, .img3{
+    width: 100%;
+    border-radius: 40px;
+    margin-bottom: 6%;
+}
+.sanky2{
+    margin-left: 37%;
+    margin-top: -21.7%;
+}
+.sanky3{
+    margin-left: 68%;
+    margin-top: -20.8%;
+}
+.propiedades{
+    background-color: rgb(146, 231, 202);
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 21px;
+}
+.propiedades h2, h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caida, .piel, .cuero{
+    width: 25%;
+}
+.caida1, .piel1, .cuero1{
+    width: 100%;
+    border-radius: 38%;
+    margin-bottom: 6%;
+}
+.caida{
+    margin-left: 8%;
+}
+.piel{
+    margin-left: 38%;
+    margin-top: -42%;
+}
+.cuero{
+    margin-left: 67%;
+    margin-top: -38.4%;
+}
+.propiedades h4, h2{
+    color: rgb(46, 46, 172);
+    text-shadow: 8px 10px 5px rgb(159, 157, 157);
+
+}
+.calculos{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cuadro{
+    margin-left: 38%;
+    margin-right: 38%;
+}
+.button{
+    background-color: rgb(120, 120, 232);
+    border-radius: 10px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.altura{
+    padding-right: 135px;
+}
+.peso{
+    padding-right: 25px;
+}
+.calculos h2{
+    font-size: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.calculos p{
+    font-size: 20px;
+}
